@@ -72,6 +72,8 @@ Let me tell you how to use 'Clash' and what's the 'VPN' then i will recommand so
   >>
   >>* Shadowsocks 翻墙机场
   >>
+  >>* [Official](https://scvipcc03.sc-vipaff.pro/auth/register)
+  >>
   >>>Line characteristics
   >>>
   >>>* IPLC dedicated line
@@ -88,6 +90,8 @@ Let me tell you how to use 'Clash' and what's the 'VPN' then i will recommand so
   >>* Shadowsocks/Trojan 翻墙机场
   >>
   >>* 唯云专线机场
+  >>
+  >>* [Official](https://www.kuromis.com/)
   >>
   >>>Line characteristics
   >>>
@@ -185,3 +189,7 @@ If you have some questions about this,Please contact me with email.
 >Email: luc444175@gmail.com or 769891117@qq.com
 >
 >Telegram：https://t.me/jisou?start=telegram_6847194438
+>
+>I recommand you to look at this vedio.
+>
+>YouTube: https://www.youtube.com/watch?v=s90feRmdr9A&t=39s
