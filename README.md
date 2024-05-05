@@ -127,3 +127,32 @@ Let me tell you how to use 'Clash' and what's the 'VPN' then i will recommand so
   >`Proxies（代理)`: 选择代理方式（Global - 全局、Rule - 规则、Direct - 直连）及策略组节点选择；
   >
   >`Profiles（配置管理)`: 下载远端配置文件,对配置进行节点、策略组和规则的管理.
+  >
+  >Using 'Clash'
+  >
+  >>远程订阅
+  >>
+  >>![Remote](https://clashforwindows.org/wp-content/uploads/2024/01/1706446763-Clash-Subscription-Interface-Example-02.jpg.webp)
+  >>
+  >>![Remote](https://clashforwindows.org/wp-content/uploads/2024/01/1706446761-Clash-Subscription-Interface-Example-01.jpg.webp)
+  >>
+  >>Then click Configuration on the menu on the left side of the interface, fill in the URL connection address you just copied in the top input box and 
+  >>click Download. After the download is complete, click the corresponding configuration file to add the configuration file, as shown in the figure below.
+  >>
+  >>![File](https://clashforwindows.org/wp-content/uploads/2024/01/1706448767-ClashforWindows-Profiles-Download.jpg.webp)
+  >>
+  >>Select agent node
+  >>
+  >>![Select](https://clashforwindows.org/wp-content/uploads/2024/01/1706451488-ClashforWindows-Choose-Proxies.jpg.webp)
+  >>
+  >>Enable proxy
+  >>
+  >>![Enable](https://clashforwindows.org/wp-content/uploads/2024/01/1706448835-ClashforWindows-General-System-Proxy.jpg.webp)
+  >>
+根据之前推荐给大家的的机场，购买节点之后，只需要按照步骤导入节点，启动Clash即可科学上网。
+
+********
+
+>>>>Get more informations.
+>>>>
+>>>>[Clash For Windows](https://clashforwindows.org/)
