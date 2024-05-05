@@ -151,8 +151,37 @@ Let me tell you how to use 'Clash' and what's the 'VPN' then i will recommand so
   >>
 根据之前推荐给大家的的机场，购买节点之后，只需要按照步骤导入节点，启动Clash即可科学上网。
 
+If you want to build it by yourself.You can visit these website: 
+
+1.[Shadowsocks](https://www.linuxsss.com/)
+
+2.[SSR](https://www.linuxssr.com/)
+
+3.[Trojan](https://www.linuxtrojan.com/)
+
+VPS 
+
+1.[搬瓦工](https://bandwagonhost.com/)
+
+2.[RackNerd](https://www.racknerd.com/)
+
+3.[Vultr](https://www.vultr.com/)
+
+4.[DMIT](https://www.dmit.io/)
+
+5.[CloudCone](https://app.cloudcone.com/?ref=2321)
+
 ********
 
 >>>>Get more informations.
 >>>>
 >>>>[Clash For Windows](https://clashforwindows.org/)
+
+
+********
+
+If you have some questions about this,Please contact me with email.
+
+>Email: luc444175@gmail.com or 769891117@qq.com
+>
+>Telegram：https://t.me/jisou?start=telegram_6847194438
