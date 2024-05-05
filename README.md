@@ -96,3 +96,34 @@ Let me tell you how to use 'Clash' and what's the 'VPN' then i will recommand so
   >>>* Shanghai Mobile
   >>>
   >>>* Guangdong China Unicom
+  >>>
+* So how do you use 'clash'?
+  >What's the 'Clash'?
+  >
+  >>Clash for Windows是代理工具Clash在Windows系统的图形客户端，同时还支持Windows、Linux、macOS三大系统，功能强大且支持多种代理协议，如Shadowsocks(SS)、ShadowsocksR(SSR)、Socks、Snell、V2Ray、Trojan等代理协议.
+  >>
+  >>![Clash](https://clashforwindows.org/wp-content/uploads/2024/01/1706445121-ClashforWindows-General.jpg.webp)
+  >>
+  >Significant introduction of Interface.
+  >
+  >`General（常规）`:
+  >
+  >>1.`Port`,`Socks Port`: 分别为 HTTP、SOCKS 代理端口，点击终端图案可以打开一个配置了代理的命令行窗口，点击端口数字可以复制该命令；
+  >>
+  >>2.`Allow LAN`: 启用局域网共享代理功能；
+  >>
+  >>3.`Log Level`: 日志等级；
+  >>
+  >>4.`Home Directory`: 点击下方路径直达 `C:\Users\用户名\.config\clash` 文件夹；
+  >>
+  >>5.`GeoIP Database`: 点击下方日期可更新 GeoIP 数据库；
+  >>
+  >>6.`UWP Loopback`: 可以用来使 UWP 应用解除回环代理限制；
+  >>
+  >>7.`Tap Device`: 安装 cfw-tap 网卡，可用于处理不遵循系统代理的软件（实际启动 tap 模式需要更改配置文件）；
+  >>
+  >>8.`General YML`: 编辑 `config.yml` 文件，可用于配置部分 General 页面内容.
+  >>
+  >`Proxies（代理)`: 选择代理方式（Global - 全局、Rule - 规则、Direct - 直连）及策略组节点选择；
+  >
+  >`Profiles（配置管理)`: 下载远端配置文件,对配置进行节点、策略组和规则的管理.
